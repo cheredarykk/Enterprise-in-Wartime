@@ -4,8 +4,11 @@ This report examines the impact of the full-scale invasion on February 24, 2022,
 
 ## Technology
 Data: https://data.gov.ua/dataset/7436ae83-dfc1-4836-9962-8af3e831c522
+
 Data Cleaning & Export: Python 
+
 Data Analysis: MySQL
+
 Data Visualisation: PowerBI
 
 
