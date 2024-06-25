@@ -1,5 +1,6 @@
 # Enterprise-in-Wartime
 Analyzing the Impact of Full-Scale War on Businesses in Ukraine
+
 This report examines the impact of the full-scale invasion on February 24, 2022, on Ukrainian businesses and assesses their current recovery efforts.  While acknowledging the limitations of available data, the report provides valuable insights into the overall situation.
 
 ## Technology
